@@ -1,0 +1,8 @@
+[component]
+name = "SigmaOS-app-center"
+version = "0.1.0"
+maturity = "alpha"
+tier = 6
+owner = "SigmaOS Team"
+purpose = "Curated application catalog and software center"
+dependencies = ["SigmaOS-packages", "SigmaOS-desktop"]
