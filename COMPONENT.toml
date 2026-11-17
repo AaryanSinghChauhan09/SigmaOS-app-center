@@ -3,7 +3,7 @@ name = "SigmaOS-app-center"
 tier = 3
 stability = "scaffold"
 language = "rust"
-description = "Curated application store with privacy permission indicators, Flatpak sandboxing, and updates"
+description = "SigmaOS Curated Application Discovery & Store GUI"
 upstream = ["https://github.com/elementary/appcenter"]
 
 [contract]
